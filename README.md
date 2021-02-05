@@ -16,7 +16,11 @@
 -----------------------------------------
 ### Inspiration
 
+* Speech to text application makes everything a little easier so that you can focus your time and attention on what matters the most to you. 
 
+* Applications that convert speech-to-text can liberate you from your desk, and prevent you from having to type lengthy passages of text. It can spare students from having to type out long and complex lecture notes so that they have more time available to study. For those in the legal profession, it can allow for far less time spent on tedious administration and more time for what matters the most.
+
+* It can facilitate effective multitasking, enabling your eyes and hands to do one thing while your voice does another. This is invaluable if you have multiple projects on at one time, or need to quickly jot down notes while working on something else.
 
 ------------------------------------------
 ### Features
