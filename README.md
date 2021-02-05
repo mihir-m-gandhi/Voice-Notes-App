@@ -41,7 +41,7 @@
 ### Installation
 * For Usage
     * Download the [`Voice-Notes.apk`](./Voice_Notes.apk) and install it on your device. 
-    * Grant the required permissions to the app.
+    * Grant the required permission to the app (To record audio).
   
 * For Development
     * Clone the repo
