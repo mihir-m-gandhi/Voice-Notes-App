@@ -22,6 +22,7 @@
 ### Features
 
 - `Record voice notes` : Hit 'RECORD' to record speech, and the app will start listening. When done, hit 'STOP', and text is generated using IBM Watson Speech-To-Text API.
+- `Edit text after recording` : The generated text can be edited to correct spelling or grammatical errors, or to add some text to the note before saving it.
 - `Save the notes` : Store the voice notes in a txt file for future reference.
 - `Load a saved note` : Load a previously saved note from within the app itself.
 
