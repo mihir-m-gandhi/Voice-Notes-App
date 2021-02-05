@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4> <strong>Voice Notes</strong> can be used to easily record voice, convert speech to text, and store the text on your device for future reference. Set reminders, record the minutes of a meeting, or make notes of a lecture - Just speak and your Voice Notes will be generated. </h4>
+<h4> <strong>Voice Notes App</strong> can be used to easily record voice, convert speech to text, and store the text on your device for future reference. Set reminders, record the minutes of a meeting, or make notes of a lecture - Just speak and your Voice Notes will be generated. </h4>
 
 </div>
 
