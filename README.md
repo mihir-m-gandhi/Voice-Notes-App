@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img height=100px src="./voice-notes.png" alt="Voice-Notes"></a>
+ <img height=100px src="./voice-notes.png" alt="Voice-Notes">
 </p>
 
 <h1 align="center">Voice Notes App</h1>
